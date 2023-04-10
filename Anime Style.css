@@ -1,7 +1,4 @@
-04.10 20:32
-  <style>
-
-      /* Dropdown Button */
+ /* Dropdown Button */
 
 .dropbtn {
 
@@ -68,5 +65,4 @@ z-index: 1;
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}</style>
-
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
